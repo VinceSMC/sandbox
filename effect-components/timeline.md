@@ -39,8 +39,7 @@ Sets how long the timeline stage remains active.
 text: TEXT
 ```
 Sets the source text used during the timeline stage.
-<br>Supports the same placeholders, colors, and formatting codes as the root `text` option.
-<br>If omitted, the root `text` value is used. An empty value can be used to display an intentionally blank stage.
+<br>If omitted, the root text value is used. An empty value can be used to display an intentionally blank stage.
 
 ### style
 ```yaml
