@@ -26,3 +26,20 @@ format: TEXT
 ```
 Sets the formatting applied to all visible characters in the source text.
 <br>If omitted, the formatting already present in the resolved source text is preserved until a layer modifies it.
+
+## Examples
+
+### Apply a bold blue style
+```yaml
+style:
+  color: "&b"
+  format: "&l"
+```
+
+### Override only the color during a stage
+```yaml
+timeline:
+ - duration: 1s
+   style:
+     color: "&f"
+```
