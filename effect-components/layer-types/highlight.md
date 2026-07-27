@@ -45,7 +45,6 @@ softness: NUMBER
 
 Sets the number of additional character positions on each side of the highlight that fade between their existing color and the configured highlight color.
 <br>Each character still uses one solid color. This option creates a color falloff between neighboring characters and does not blur or partially color a character.
-<br>A value of `0` creates a hard edge around the highlighted characters.
 
 ### include spaces
 ```yaml
