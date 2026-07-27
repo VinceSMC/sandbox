@@ -2,8 +2,6 @@
 Effects allow you to apply reusable visual styles and animations to text.
 <br>They can create gradients, highlights, pulses, rainbow colors, typewriter animations, scrolling text, and other dynamic output without configuring every frame manually.
 
-Each file inside the `effects` folder defines one effect. The filename without `.yml` is used as the effect ID.
-
 ### Effect placeholders
 
 | # | Placeholder | Type | Description |
