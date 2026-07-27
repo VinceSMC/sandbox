@@ -6,6 +6,10 @@
 **Description**
 <br>The timeline component defines the ordered stages that make up an effect and determines how long each stage remains active.
 
+> [!NOTE]
+> The complete cycle duration is calculated automatically by adding the duration of every configured stage.
+> <br>A timeline is required for every playback mode except `static`.
+
 ## Syntax
 ```yaml
 timeline:
@@ -17,9 +21,6 @@ timeline:
    layers:
     - type: LAYER_TYPE
 ```
-> [!NOTE]
-> The complete cycle duration is calculated automatically by adding the duration of every configured stage.
-> A timeline is required for every playback mode except `static`.
 
 ### duration
 ```yaml
