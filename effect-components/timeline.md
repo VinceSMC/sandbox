@@ -34,9 +34,6 @@ duration: DURATION
 Sets how long the timeline stage remains active.
 <br>The duration must be greater than zero and must include a supported unit.
 
-A stage containing only a duration displays the normal source text with its root style and layers.
-<br>This allows pauses to be created without repeating the same frame.
-
 ### text
 ```yaml
 text: TEXT
