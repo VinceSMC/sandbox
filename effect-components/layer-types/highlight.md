@@ -100,45 +100,6 @@ cycles: NUMBER
 
 Sets the number of complete passes performed during the active duration.
 
-## Rendered example
-
-The following configuration does not alter the letters in `TEAMS`. It generates five formatted character states over three seconds:
-
-```yaml
-text: "TEAMS"
-
-style:
-  color: "&b"
-
-playback:
-  frame-rate: 5
-
-timeline:
- - duration: 3s
-   layers:
-    - type: highlight
-      color: "&f"
-      width: 1
-      softness: 0
-      include-spaces: false
-      motion:
-        mode: stepped
-        direction: left-to-right
-        cycles: 1
-```
-
-Conceptually, the returned text advances through these states:
-
-```text
-&fT&bEAMS
-&bT&fE&bAMS
-&bTE&fA&bMS
-&bTEA&fM&bS
-&bTEAM&fS
-```
-
-Repeated rendered states are generated automatically from the stage duration and frame rate.
-
 ## Examples
 
 ### Move a white highlight across each character
