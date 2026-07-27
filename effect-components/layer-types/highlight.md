@@ -6,10 +6,6 @@
 **Description**
 <br>The highlight layer type moves a color sweep across the source text while preserving the colors outside the highlighted area.
 
-> [!IMPORTANT]
-> The highlight is rendered at character level. It does not place an overlay over the text, move the characters, blur them, or color part of a character.
-> <br>For every rendered state, SMC-Core recolors complete visible characters and returns the newly formatted text to Minecraft.
-
 ## Syntax
 ```yaml
 - type: highlight
