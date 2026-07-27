@@ -15,23 +15,6 @@ Each file inside the `effects` folder defines one effect. The filename without `
 > Native placeholders are only supported within the SMC plugin ecosystem.  
 > PAPI placeholders can be used in any location that supports PlaceholderAPI.
 
-### Effect files
-```text
-effects/
-├── branding/
-│   └── scoreboard-title.yml
-├── item/
-│   └── booster-item.yml
-└── ui/
-    └── teams-title.yml
-```
-
-Subfolders can be used to organize effect files, but they are not included in the effect ID.
-<br>For example, `effects/branding/scoreboard-title.yml` is returned using `{effect--scoreboard-title}`.
-
-> [!NOTE]
-> Effect IDs must be unique across the complete `effects` folder, including all subfolders.
-
 ### Syntax
 ```yaml
 enabled: BOOLEAN
