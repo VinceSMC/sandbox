@@ -19,7 +19,7 @@
 peak-color: TEXT
 ```
 Sets the color reached at the center of the pulse.
-<br>Supports legacy and hexadecimal color codes. The starting and ending colors are taken from the style and layers already applied before the pulse.
+<br>The starting and ending colors are taken from the style and layers already applied before the pulse.
 
 ### cycles
 ```yaml
