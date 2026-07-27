@@ -81,16 +81,3 @@ timeline: TIMELINE
 ```
 Sets the ordered stages that make up the effect.
 <br>Check the [Timeline](effect-components/timeline.md) section for more information.
-
-### Layer types
-
-| # | Type | Description |
-|---|---|---|
-| 1 | [`gradient`](effect-components/layer-types/gradient.md) | Applies a static or moving color gradient to the text. |
-| 2 | [`highlight`](effect-components/layer-types/highlight.md) | Moves a colored highlight across the text. |
-| 3 | [`pulse`](effect-components/layer-types/pulse.md) | Pulses the current colors toward a configured peak color and back. |
-| 4 | [`rainbow`](effect-components/layer-types/rainbow.md) | Applies a static or moving rainbow spectrum to the text. |
-| 5 | [`typewriter`](effect-components/layer-types/typewriter.md) | Reveals or erases the text over time. |
-| 6 | [`scramble`](effect-components/layer-types/scramble.md) | Displays randomized characters that settle into the source text. |
-| 7 | [`marquee`](effect-components/layer-types/marquee.md) | Scrolls the text through a fixed-width viewport. |
-| 8 | [`suffix-cycle`](effect-components/layer-types/suffix-cycle.md) | Cycles through configured suffixes without repeating the source text. |
