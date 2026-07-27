@@ -43,7 +43,6 @@ text: TEXT
 > - [`Variables`](variables.md) — Allows effects to use values returned by SMC-Core variable placeholders.
 > - [`Logics`](logics.md) — Allows effects to use values returned by SMC-Core logic placeholders.
 > - [`Metrics`](metrics.md) — Allows effects to use values returned by SMC-Core metric placeholders.
-> - `color and formatting codes` — Allows effects to use legacy and hexadecimal color codes.
 
 Sets the source text to which the effect is applied.
 <br>Supported placeholders are resolved before the configured styles and layers are rendered.
