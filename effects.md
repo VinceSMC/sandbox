@@ -94,13 +94,3 @@ Sets the ordered stages that make up the effect.
 | 6 | [`scramble`](effect-components/layer-types/scramble.md) | Displays randomized characters that settle into the source text. |
 | 7 | [`marquee`](effect-components/layer-types/marquee.md) | Scrolls the text through a fixed-width viewport. |
 | 8 | [`suffix-cycle`](effect-components/layer-types/suffix-cycle.md) | Cycles through configured suffixes without repeating the source text. |
-
-### Preview commands
-
-| Command | Description |
-|---|---|
-| `/smccore effect preview <effectID> [player]` | Displays the effect repeatedly in the action bar. |
-| `/smccore effect stop-preview [player]` | Stops the active effect preview. |
-| `/smccore effect info <effectID>` | Displays the effect duration, stages, frame rate, rendered state count, synchronization, and validation warnings. |
-
-Check the [Effects Example](effects-example.md) section for a complete effect configuration.
