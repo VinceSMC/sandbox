@@ -17,9 +17,9 @@ timeline:
    layers:
     - type: LAYER_TYPE
 ```
-
-The complete cycle duration is calculated automatically by adding the duration of every configured stage.
-<br>A timeline is required for every playback mode except `static`.
+> [!NOTE]
+> The complete cycle duration is calculated automatically by adding the duration of every configured stage.
+> A timeline is required for every playback mode except `static`.
 
 ### duration
 ```yaml
