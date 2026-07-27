@@ -63,9 +63,6 @@ Sets whether viewers share the same timeline position.
 | `global` | All viewers see the same rendered state of the effect. The timeline begins when the effect is loaded or reloaded. |
 | `player` | Each player receives an independent timeline that begins when the effect is first requested for them. |
 
-`global` synchronization is recommended for shared branding, scoreboards, player lists, and menu text.
-<br>Use `player` synchronization when the effect should begin separately for each viewer.
-
 ## Examples
 
 ### Loop a globally synchronized effect at 20 frames per second
