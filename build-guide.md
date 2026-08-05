@@ -1,24 +1,15 @@
-# Skyblock Spawn Build Guide
+# Skyblock Spawn Build Guid
 
-This document defines the purpose and required direction of each current structure within the Skyblock Spawn. The structure numbers match the numbered builds in the build world and must remain unchanged.
-
-The NPC tables only contain current NPCs from `location_village`. NPCs assigned to a numbered structure are listed directly beneath it. NPCs that belong to an area rather than a specific structure are listed separately at the end. Planned NPCs without a current NPC definition are not included in the tables.
-
-## Spawn Areas
-
-| Area | Purpose | Current Structures | NPCs |
-|------|---------|--------------------|-----:|
-| Village (Center) | The main settlement containing most buildings, services, merchants, and villagers. | `1`, `2`, `4`–`12`, `16`–`18`, `22` | 33 |
-| Mining District | The main location for mining-related services and the Blacksmith. | `21` | 3 |
-| Mob Camp | A dedicated area for mob-related content. | — | 0 |
-| Combat Settlement | The main location for combat services, equipment, and enchanting. | `19`, `20` | 1 |
-| The Forest | The main location for woodcutting, foraging, and wood-related merchants. | `15` | 3 |
-| Farm | The main location for crops, animals, and farming-related content. | `13`, `14` | 1 |
-| Fishing Forest | A water-rich forest dedicated to fishing-related content. | `3` | 2 |
-| Mountain | A dedicated mountain area. Its exact gameplay purpose has not yet been defined. | — | 0 |
-| **Total** |  | **22 structures** | **43** |
-
-## Current Structures
+| Area | Purpose |
+|------|---------|
+| Village (Center) | The main settlement containing most buildings, services, merchants, and villagers. |
+| Mining District | The main location for mining-related services and the Blacksmith. |
+| Mob Camp | A dedicated area for mob-related content. |
+| Combat Settlement | The main location for combat services, equipment, and enchanting. |
+| The Forest | The main location for woodcutting, foraging, and wood-related merchants. |
+| Farm | The main location for crops, animals, and farming-related content. |
+| Fishing Forest | A water-rich forest dedicated to fishing-related content. |
+| Mountain | A dedicated mountain area. Its exact gameplay purpose has not yet been defined. |
 
 ### 1. Auction House
 
