@@ -1,10 +1,10 @@
 # The Bank
 
 **Structure type**
-<br>`The Bank`
+<br>`Bank`
 
 **Area**
-<br>[Village (Center)](../areas/village.md)
+<br>[Village](../areas/village.md)
 
 **Description**
 <br>Allows players to manage their Coins. A vault beneath the Bank provides access to personal storage after it has been unlocked through the Banker upstairs.
