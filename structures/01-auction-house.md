@@ -13,8 +13,8 @@
 **NPC**
 | # | Name | Location | Notes | NPC ID |
 |---:|------|----------|-------|--------|
-| 1 | Auction Agent | Counter | Opens the Auction House interface. | `loc-village-auctioneer-01` |
-| 2 | Auction Agent | Counter | Opens the Auction House interface. | `loc-village-auctioneer-02` |
-| 3 | Auction Agent | Counter | Opens the Auction House interface. | `loc-village-auctioneer-03` |
-| 4 | Auction Agent | Counter | Opens the Auction House interface. | `loc-village-auctioneer-04` |
-| 5 | Auction Warden | Interior | Acts as the senior Auction House authority and opens the Auction House interface. | `loc-village-warden` |
+| 1 | Auction Agent | Interior | Opens the Auction House interface. | `loc-village-auctioneer-01` |
+| 2 | Auction Agent | Interior | Opens the Auction House interface. | `loc-village-auctioneer-02` |
+| 3 | Auction Agent | Interior | Opens the Auction House interface. | `loc-village-auctioneer-03` |
+| 4 | Auction Agent | Interior | Opens the Auction House interface. | `loc-village-auctioneer-04` |
+| 5 | Auction Warden | Interior | Opens the Auction House interface. | `loc-village-warden` |
