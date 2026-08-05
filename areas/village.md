@@ -23,10 +23,8 @@
 | 18 | [Filler Structure (4)](../structures/18-filler-structure-4.md) |
 | 22 | [Town Hall](../structures/22-town-hall.md) |
 
-## Area NPCs
-
-These NPCs belong to the area but are not currently assigned to a numbered structure.
-
+## **NPCs**
+<br>These NPCs belong to the area but are not currently assigned to a numbered structure.
 | # | Name | Location | Notes | NPC ID |
 |---:|------|----------|-------|--------|
 | 25 | Hue Merchant | Village | Opens the Hue Merchant shop. | `loc-village-hue-merchant` |
