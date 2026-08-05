@@ -27,16 +27,18 @@
 <br>These NPCs belong to the area but are not currently assigned to a numbered structure.
 | # | Name | Location | Notes | NPC ID |
 |---:|------|----------|-------|--------|
+| 1 | Kael's Navigator | Arrival Point | Opens the Server Selector menu. | `loc-village-server-selector` |
+| 2 | Elric | Around the Village | Explains Minions, tiers, placement limits, fuel, skins, and storage. | `loc-village-villager-elric` |
+| 3 | Faye | Around the Village | Explains the Quest Log, active objectives, progress, and rewards. | `loc-village-villager-faye` |
+| 4 | Fenwick | Central Square | Welcomes new players and acts as a central village guide. | `loc-village-villager-fenwick` |
+| 5 | Jacob | Around the Village | Explains remote crafting, the Recipe Book, and recipe unlocks. | `loc-village-villager-jacob` |
+| 6 | Luna | Around the Village | Explains Collections and the rewards unlocked by gathering resources. | `loc-village-villager-luna` |
+| 7 | Merron | Around the Village | Explains island teams, shared progress, and cooperative play. | `loc-village-villager-merron` |
+| 8 | Nilo | Around the Village | Explains Player Level, Island Level, and how their experience is earned. | `loc-village-villager-nilo` |
+| 9 | Quill | Around the Village | Purpose not yet defined. | `loc-village-villager-quill` |
+| 10 | Ravi | Around the Village | Explains direct player trading, trade offers, and safe trading. | `loc-village-villager-ravi` |
+| 11 | Simon | Around the Village | Directs players toward the Farm, Mining District, Forest, and other resource areas. | `loc-village-villager-simon` |
+| 12| Taren | Around the Village | Explains personal Storage, Backpacks, storage slots, and how to unlock more space. | `loc-village-villager-taren` |
+
+
 | 25 | Hue Merchant | Village | Opens the Hue Merchant shop. | `loc-village-hue-merchant` |
-| 26 | Kael's Navigator | Arrival Point | Opens the Server Selector menu. | `loc-village-server-selector` |
-| 27 | Elric | Around the Village | Explains Minions, tiers, placement limits, fuel, skins, and storage. | `loc-village-villager-elric` |
-| 28 | Faye | Around the Village | Explains the Quest Log, active objectives, progress, and rewards. | `loc-village-villager-faye` |
-| 29 | Fenwick | Central Square | Welcomes new players and acts as a central village guide. | `loc-village-villager-fenwick` |
-| 30 | Jacob | Around the Village | Explains remote crafting, the Recipe Book, and recipe unlocks. | `loc-village-villager-jacob` |
-| 31 | Luna | Around the Village | Explains Collections and the rewards unlocked by gathering resources. | `loc-village-villager-luna` |
-| 32 | Merron | Around the Village | Explains island teams, shared progress, and cooperative play. | `loc-village-villager-merron` |
-| 33 | Nilo | Around the Village | Explains Player Level, Island Level, and how their experience is earned. | `loc-village-villager-nilo` |
-| 34 | Quill | Around the Village | Purpose not yet defined. | `loc-village-villager-quill` |
-| 35 | Ravi | Around the Village | Explains direct player trading, trade offers, and safe trading. | `loc-village-villager-ravi` |
-| 36 | Simon | Around the Village | Directs players toward the Farm, Mining District, Forest, and other resource areas. | `loc-village-villager-simon` |
-| 37 | Taren | Around the Village | Explains personal Storage, Backpacks, storage slots, and how to unlock more space. | `loc-village-villager-taren` |
