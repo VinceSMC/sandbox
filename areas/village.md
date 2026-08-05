@@ -13,7 +13,7 @@
 | 6 | [Resource Foundry](../structures/06-resource-foundry.md) |
 | 7 | [The Tinkery](../structures/07-the-tinkery.md) |
 | 8 | [The Builder](../structures/08-the-builder.md) |
-| 9 | [Cosmetics Building (Currently Unnamed)](../structures/09-cosmetics-building-currently-unnamed.md) |
+| 9 | [Cosmetics](../structures/09-cosmetics-building-currently-unnamed.md) |
 | 10 | [Filler Structure (1)](../structures/10-filler-structure-1.md) |
 | 11 | [The Bar](../structures/11-the-bar.md) |
 | 12 | [Filler Structure (2)](../structures/12-filler-structure-2-watermill.md) |
