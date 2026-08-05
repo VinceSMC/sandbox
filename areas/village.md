@@ -14,12 +14,12 @@
 | 7 | [The Tinkery](../structures/07-the-tinkery.md) |
 | 8 | [The Builder](../structures/08-the-builder.md) |
 | 9 | [Cosmetics Building (Currently Unnamed)](../structures/09-cosmetics-building-currently-unnamed.md) |
-| 10 | [Filler Structure 1](../structures/10-filler-structure-1.md) |
+| 10 | [Filler Structure (1)](../structures/10-filler-structure-1.md) |
 | 11 | [The Bar](../structures/11-the-bar.md) |
-| 12 | [Filler Structure 2 — Watermill](../structures/12-filler-structure-2-watermill.md) |
+| 12 | [Filler Structure (2)](../structures/12-filler-structure-2-watermill.md) |
 | 16 | [Pets](../structures/16-pets.md) |
-| 17 | [Filler Structure 3](../structures/17-filler-structure-3.md) |
-| 18 | [Filler Structure 4](../structures/18-filler-structure-4.md) |
+| 17 | [Filler Structure (3)](../structures/17-filler-structure-3.md) |
+| 18 | [Filler Structure (4)](../structures/18-filler-structure-4.md) |
 | 22 | [Town Hall](../structures/22-town-hall.md) |
 
 ## Area NPCs
