@@ -27,10 +27,10 @@
 <br>These NPCs belong to the area but are not currently assigned to a numbered structure.
 | # | Name | Location | Notes | NPC ID |
 |---:|------|----------|-------|--------|
-| 1 | Kael's Navigator | Arrival Point | Opens the Server Selector menu. | `loc-village-server-selector` |
+| 1 | Kael's Navigator | Central Square | Opens the Server Selector menu. | `loc-village-server-selector` |
 | 2 | Elric | Around the Village | Explains Minions, tiers, placement limits, fuel, skins, and storage. | `loc-village-villager-elric` |
 | 3 | Faye | Around the Village | Explains the Quest Log, active objectives, progress, and rewards. | `loc-village-villager-faye` |
-| 4 | Fenwick | Central Square | Welcomes new players and acts as a central village guide. | `loc-village-villager-fenwick` |
+| 4 | Fenwick | Around the Village | Welcomes new players and acts as a central village guide. | `loc-village-villager-fenwick` |
 | 5 | Jacob | Around the Village | Explains remote crafting, the Recipe Book, and recipe unlocks. | `loc-village-villager-jacob` |
 | 6 | Luna | Around the Village | Explains Collections and the rewards unlocked by gathering resources. | `loc-village-villager-luna` |
 | 7 | Merron | Around the Village | Explains island teams, shared progress, and cooperative play. | `loc-village-villager-merron` |
