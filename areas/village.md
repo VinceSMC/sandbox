@@ -1,7 +1,8 @@
 # Village
 
 **Description**
-<br>The main settlement containing most buildings, services, merchants, and villagers.
+<br>The Vilage sits at the center of the build and contains most of the structures, NPC's and vendors.
+<br>It's also the main spawn point of the build.
 
 **Structures**
 <br>All structures appearand in this area.
