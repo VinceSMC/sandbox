@@ -8,7 +8,7 @@
 
 **Description**
 <br>Allows players to manage their Coins. A vault beneath the Bank provides access to personal storage after it has been unlocked through the Banker upstairs.
-<br><br>The current structure is approved and its main design should be preserved. Focus any revisions on making the basement and vault feel more detailed, secure, and substantial. The exact scope of these changes is still open.
+<br>The current structure is approved and its main design should be preserved. Focus any revisions on making the basement and vault feel more detailed and "special". The exact scope of these changes is still open.
 
 **NPC**
 
