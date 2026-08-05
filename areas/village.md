@@ -23,7 +23,7 @@
 | 18 | [Filler Structure (4)](../structures/18-filler-structure-4.md) |
 | 22 | [Town Hall](../structures/22-town-hall.md) |
 
-## **NPCs**
+**NPCs**
 <br>These NPCs belong to the area but are not currently assigned to a numbered structure.
 | # | Name | Location | Notes | NPC ID |
 |---:|------|----------|-------|--------|
