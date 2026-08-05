@@ -4,7 +4,7 @@
 <br>The main settlement containing most buildings, services, merchants, and villagers.
 
 **Structures**
-All structures appearand in this area.
+<br>All structures appearand in this area.
 | # | Structure |
 |---:|-----------|
 | 1 | [Auction House](../structures/01-auction-house.md) |
