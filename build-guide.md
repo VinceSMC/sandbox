@@ -2,7 +2,7 @@
 
 | # | Area | Purpose |
 |---:|------|---------|
-| 1 | [Village (Center)](areas/village.md) | The main settlement containing most buildings, services, merchants, and villagers. |
+| 1 | [Village](areas/village.md) | The main settlement containing most buildings, services, merchants, and villagers. |
 | 2 | [Mining District](areas/mining-district.md) | The main location for mining-related services and the Blacksmith. |
 | 3 | [Mob Camp](areas/mob-camp.md) | A dedicated area for mob-related content. |
 | 4 | [Combat Settlement](areas/combat-settlement.md) | The main location for combat services, equipment, and enchanting. |
