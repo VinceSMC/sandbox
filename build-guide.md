@@ -1,4 +1,4 @@
-# Skyblock Spawn Build Guid
+# Build Guide
 
 | Area | Purpose |
 |------|---------|
