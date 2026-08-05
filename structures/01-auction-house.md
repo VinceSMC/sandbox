@@ -8,7 +8,7 @@
 
 **Description**
 <br>Allows players to buy and sell items through the Auction House.
-<br>The current structure is approved and should remain largely unchanged. Complete the interior with additional detail. Small modifications are welcome where they clearly strengthen the build.
+<br>The current structure is approved and should remain largely unchanged. The interior still needs to be completed. Small modifications (e.g. use of new blocks) are welcome where they clearly strengthen the build.
 
 **NPC**
 | # | Name | Location | Notes | NPC ID |
