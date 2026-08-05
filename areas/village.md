@@ -1,4 +1,4 @@
-# Village (Center)
+# Village
 
 **Description**
 <br>The main settlement containing most buildings, services, merchants, and villagers.
