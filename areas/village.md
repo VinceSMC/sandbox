@@ -5,6 +5,9 @@
 
 **Structures**
 <br>All structures appearand in this area.
+> [!NOTE]
+> The numbers in this table correspond to the numbers displayed above each structure on the build server.
+
 | # | Structure |
 |---:|-----------|
 | 1 | [Auction House](../structures/01-auction-house.md) |
