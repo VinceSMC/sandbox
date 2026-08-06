@@ -1,5 +1,7 @@
 # The Barricades
 
+<img src="https://github.com/VinceSMC/sandbox/blob/49b14a296490ede0c742ac288f33334de87cdb46/images/the-barricades.png" alt="Logo" width="auto" height="325">
+
 **Description**
 <br>The Barricades is dedicated to mob-related content.
 
