@@ -24,8 +24,8 @@
 
 > TL;DR: Strong shapes first, meaningful details second, and surface texture last.
 
-
-
+<br>**Scale**
+<br>Use a scale that supports the structure's function and player movement. Avoid making buildings larger than their purpose requires, as this can create empty interiors and reduce their visual impact.
 
 
 
