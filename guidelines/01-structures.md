@@ -13,7 +13,7 @@
 | Collection | Purpose |
 |------------|---------|
 | [`Preferred style`](link) | Shows the shapes, proportions, material use, and level of detail we would like to see. |
-| [`Undesirable style`](link) | Shows styles that do not match the direction of this project. |
+| [`Undesirable style`](https://imgur.com/a/W9OlI5f) | Shows styles that do not match the direction of this project. |
 
 <a id="overall-direction"></a>
 <br>**🧷 Overall Direction**
