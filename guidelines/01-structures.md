@@ -33,7 +33,7 @@
 
 <a id="area-integration"></a>
 <br>**🧷 Area Integration**
-| `Yes` | `No` |
+<br>| `Yes` | `No` |
 
 
 
