@@ -36,7 +36,8 @@
 
 
 <a id="final-review"></a>
-<br>**🧷 Final Review**
+<br>**🧷 Final Checklist**
+- [ ] Purpose: Is the structure's function clear from its exterior and interior?
 
 | Check | Question |
 |-------|----------|
