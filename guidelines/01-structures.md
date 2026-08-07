@@ -31,7 +31,8 @@
 <br>**🧷 Exterior & Interior**
 <br>Exteriors should clearly communicate each structure’s purpose through its silhouette, palette, entrance, and a few recognizable themed details. Structures should be integrated into their surroundings using paths, steps, foliage, terrain and small props rather than placed on flat, empty plots. Interiors should remain compact, open, and gameplay-focused: the main NPC or interactive feature should be easy to access within the structure. Interior materials and decorations should continue the exterior theme and reinforce the structure’s purpose.
 
-
+<a id="area-integration"></a>
+<br>**🧷 Area Integration**
 
 
 
@@ -43,32 +44,6 @@
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<a id="exterior"></a>
-### Exterior
-
-**Shape & Proportions**
-<br>Use varied heights, setbacks, rooflines, and silhouettes so structures do not feel like decorated boxes. Keep the overall shape readable and avoid unnecessary complexity.
-
-**Block Palette**
-<br>Use a controlled palette with clear primary, secondary, and accent materials. Block variation should strengthen the structure's shape and theme rather than appear randomly mixed.
-
-**Depth & Shading**
-<br>Create depth through recessed walls, frames, supports, overhangs, windows, and layered roofs. Shading should be subtle and intentional rather than formed through excessive gradients or random texturing.
-
-**Entrances & Details**
-<br>Entrances should be easy to find and face the routes players naturally approach from. Exterior details should support the building's purpose without covering every surface.
-
-<a id="interior"></a>
-### Interior
-
-**Layout**
-<br>Keep the route from the entrance to the main NPC or interaction clear. Interiors should provide comfortable player movement without leaving large areas unused.
-
-**Theme & Function**
-<br>Furniture, storage, machinery, counters, workspaces, and decoration should reflect what happens inside the building.
-
-**Detail & Atmosphere**
-<br>Use variation in floors, walls, ceilings, lighting, and small props to make interiors feel complete. Avoid both empty shells and excessive clutter.
 
 <a id="area-integration"></a>
 **Area Integration**
