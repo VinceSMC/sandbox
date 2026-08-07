@@ -22,7 +22,25 @@
 Structures should feel handcrafted, game-like, and designed around their purpose. Each building should have its own identity without looking disconnected from the rest of the Spawn.
 
 
-<br>**Purpose & Identity**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>**Purpose & Identity**
 <br>The purpose of a structure should be understandable through its shape, entrance, signs, props, and surrounding details. Important locations should remain recognizable without relying only on labels.
 
 **Scale**
