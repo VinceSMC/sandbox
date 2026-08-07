@@ -1,12 +1,12 @@
 # Structures
 
 | Section | Covers |
-|---------|--------|
-| [Visual References](#visual-references) | Examples that show the intended and unintended visual direction. |
-| [Overall Direction](#overall-direction) | The identity, purpose, and scale of each structure. |
-| [Exterior & Interior](#exterior-and-interior) | Shape, materials, depth, shading, and entrances. |
-| [Area Integration](#area-integration) | How structures connect to their area and surroundings. |
-| [Final Review](#final-review) | A short check before a structure is considered complete. |
+| ----- | ----- |
+| [Visual References](#visual-references) | Examples of the intended style and what to avoid. |
+| [Overall Direction](#overall-direction) | The style, identity, and scale of each structure. |
+| [Exterior & Interior](#exterior-and-interior) | How the exterior and interior should look and function. |
+| [Area Integration](#area-integration) | How structures connect to the surrounding area. |
+| [Final Review](#final-review) | A quick check before a structure is complete. |
 
 <a id="visual-references"></a>
 <br>**🧷 Visual References**
@@ -38,7 +38,7 @@
 <br>**🧷 Final Review**
 <br> A final review before marking the structure as completed.
 | Check| Question|
-| ------------ | ------------ |
+| ----- | ----- |
 | Identity | Does the structure feel stylized, compact, and visually distinct? |
 | Construction | Is depth created through its shape and construction rather than excessive shading or texturing? |
 | Function | Are its purpose, entrance, and interior easy to understand and navigate? |
