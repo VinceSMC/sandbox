@@ -38,11 +38,7 @@
 <a id="final-review"></a>
 <br>**🧷 Final Checklist**
 - [ ] Purpose: Is the structure's function clear from its exterior and interior?
-
-| Check | Question |
-|-------|----------|
-| Purpose | Is the structure's function clear from its exterior and interior? |
-| Shape | Does it have a recognizable silhouette and enough physical depth? |
-| Materials | Does the palette feel controlled and intentional? |
-| Interior | Is the space functional, complete, and easy to navigate? |
-| Surroundings | Does the structure connect naturally to its area and nearby paths? |
+- [ ] Shape: Does it have a recognizable silhouette and enough physical depth?
+- [ ] Materials: Does the palette feel controlled and intentional?
+- [ ] Interior: Is the space functional, complete, and easy to navigate?
+- [ ] Surroundings: Does the structure connect naturally to its area and nearby paths?
