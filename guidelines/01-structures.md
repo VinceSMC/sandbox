@@ -16,9 +16,6 @@
 | `Preferred style` | Shows the shapes, proportions, material use, and level of detail we would like to see. |
 | `Undesirable style` | Shows styles that do not match the direction of this project. |
 
-> [!NOTE]
-> These collections define the general visual direction; individual structures do not need to be copied. The second collection does not represent bad builds—it only shows designs that are not the right fit for this Spawn.
-
 <a id="overall-direction"></a>
 <br>**Overall Direction**
 
