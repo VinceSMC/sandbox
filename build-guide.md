@@ -15,7 +15,7 @@
 | 9 | [Eldergrove](areas/eldergrove.md) | Located North-West of the build. |
 
 **Building Guidelines**
-These guidelines serve as a shared reference for the overall visual direction of the Skyblock Spawn.
+<br>These guidelines serve as a shared reference for the overall visual direction of the Skyblock Spawn.
 | # | Guideline | Purpose |
 |---:|-----------|---------|
 | 1 | [Structures](guidelines/01-structures.md) | Defines how structures should be designed, detailed, and integrated into their surroundings.|
