@@ -40,7 +40,7 @@ Structures should feel handcrafted, game-like, and designed around their purpose
 <br>Filler structures may be simpler, but they should still frame paths, create transitions, or support the identity of their area rather than only occupy empty space.
 
 <a id="exterior"></a>
-## Exterior
+### Exterior
 
 **Shape & Proportions**
 <br>Use varied heights, setbacks, rooflines, and silhouettes so structures do not feel like decorated boxes. Keep the overall shape readable and avoid unnecessary complexity.
