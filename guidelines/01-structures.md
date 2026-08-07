@@ -2,7 +2,7 @@
 
 | Section | Covers |
 |---------|--------|
-| [Visual References](#visual-references) | Examples that show the intended and unintended visual direction. |
+| [🧷Visual References](#visual-references) | Examples that show the intended and unintended visual direction. |
 | [Overall Direction](#overall-direction) | The identity, purpose, and scale of each structure. |
 | [Exterior](#exterior) | Shape, materials, depth, shading, and entrances. |
 | [Interior](#interior) | Layout, functionality, atmosphere, and decoration. |
