@@ -10,7 +10,7 @@
 | [Final Review](#final-review) | A short check before a structure is considered complete. |
 
 <a id="visual-references"></a>
-<br>**Visual References**
+<br>### Visual References
 | Collection | Purpose |
 |------------|---------|
 | **Preferred style**<br>`LINK_HERE` | Shows the shapes, proportions, material use, and level of detail we would like to see reflected in the Spawn. |
