@@ -21,8 +21,6 @@
 
 <br>Detail should mainly come from the structure’s shape and construction, not heavy gradients, artificial shading, or excessive block variation. Depth should instead be created through elements such as recessed walls, beams, trims, roof layers, balconies, and supports.
 
-> TL;DR: Strong shapes first, meaningful details second, and surface texture last.
-
 <br>Scale: Structures should generally remain on the smaller side, with compact footprints and proportions that feel comfortable at player scale. They should still have enough height and shape variation to stand out, but should avoid becoming oversized, monumental, or unnecessarily spacious.
 
 <a id="exterior-and-interior"></a>
