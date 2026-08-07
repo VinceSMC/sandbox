@@ -1,6 +1,5 @@
 # Structures
 
-**Contents**
 | Section | Covers |
 |---------|--------|
 | [Visual References](#visual-references) | Examples that show the intended and unintended visual direction. |
