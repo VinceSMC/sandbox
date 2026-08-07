@@ -36,6 +36,7 @@
 
 <a id="final-review"></a>
 <br>**🧷 Final Review**
+<br> A final review before marking the structure as completed.
 | Check| Question|
 | ------------ | ------------ |
 | Identity | Does the structure feel stylized, compact, and visually distinct? |
