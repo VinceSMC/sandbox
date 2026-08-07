@@ -19,9 +19,7 @@
 <a id="overall-direction"></a>
 <br>**Overall Direction**
 <br>We are looking for stylized, fairytale-like structures with a clear, game-like appearance. The overall forms should be simple and easy to read while still having strong character. We prefer memorable silhouettes, exaggerated proportions, asymmetrical layouts, layered roofs, unusual angles, overhangs, towers, chimneys, and curved sections. Each structure should have its own identity rather than feeling like a variation of the same building.
-
 <br>Detail should mainly come from the structure’s shape and construction, not heavy gradients, artificial shading, or excessive block variation. Depth should instead be created through elements such as recessed walls, beams, trims, roof layers, balconies, and supports.
-
 > TL;DR: Strong shapes first, meaningful details second, and surface texture last.
 
 
