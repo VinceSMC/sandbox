@@ -13,3 +13,13 @@
 | 7 | [Fisher’s Haven](areas/fishers-haven.md) | Located South-West of the build. |
 | 8 | [Combat Settlement](areas/combat-settlement.md) | Located West of the build. |
 | 9 | [Eldergrove](areas/eldergrove.md) | Located North-West of the build. |
+
+**Building Guidelines**
+These guidelines serve as a shared reference for the overall visual direction of the Skyblock Spawn.
+| # | Guideline | Purpose |
+|---:|-----------|---------|
+| 1 | [Structures](guidelines/01-structures.md) | Defines how structures should be designed, detailed, and integrated into their surroundings.|
+| 2 | [Paths](guidelines/02-paths.md) | Defines how paths should be shaped, connected, and detailed throughout the build.|
+| 3 | [Terrain](guidelines/03-terrain.md) | Defines how terrain should be formed, varied, and transitioned between areas.|
+| 4 | [Vegetation](guidelines/04-vegetation.md) | Defines how trees, plants, and other natural details should be placed and distributed.|
+| 5 | [Layout](guidelines/05-layout.md) | Defines how areas, structures, landmarks, and routes should be arranged across the map.|
