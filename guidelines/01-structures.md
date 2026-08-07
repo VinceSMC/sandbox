@@ -24,7 +24,7 @@
 > These collections define the general visual direction; individual structures do not need to be copied. The second collection does not represent bad builds—it only shows designs that are not the right fit for this Spawn.
 
 <a id="overall-direction"></a>
-**Overall Direction**
+<br>**Overall Direction**
 
 Structures should feel handcrafted, game-like, and designed around their purpose. Each building should have its own identity without looking disconnected from the rest of the Spawn.
 
