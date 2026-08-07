@@ -38,10 +38,13 @@
 <a id="final-review"></a>
 <br>**🧷 Final Review**
 
-| Check | Question |
-|-------|----------|
-| Purpose | Is the structure's function clear from its exterior and interior? |
-| Shape | Does it have a recognizable silhouette and enough physical depth? |
-| Materials | Does the palette feel controlled and intentional? |
-| Interior | Is the space functional, complete, and easy to navigate? |
-| Surroundings | Does the structure connect naturally to its area and nearby paths? |
+| Check               | Question                                                                                                                  |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Style               | Does the structure feel stylized, fairytale-like, and game-oriented rather than overly realistic?                         |
+| Purpose             | Is its function clear from the silhouette, entrance, palette, and themed details?                                         |
+| Identity            | Does it have a memorable shape and its own identity rather than feeling like a variation of another structure?            |
+| Shape & Depth       | Is depth created through the structure’s forms, layers, beams, trims, and recesses instead of artificial shading?         |
+| Scale               | Is the structure compact and comfortable at player scale without feeling oversized or unnecessarily spacious?             |
+| Materials           | Does the palette feel controlled and intentional, without excessive gradients, random texturing, or block variation?      |
+| Exterior & Interior | Is the entrance easy to identify, and is the interior compact, functional, complete, and easy to navigate?                |
+| Area Integration    | Does the structure flow naturally into the terrain, paths, elevation, and surroundings rather than sitting on a platform? |
