@@ -36,8 +36,6 @@
 
 <a id="final-review"></a>
 <br>**🧷 Final Review**
-
-**🧷 Final Review**
 | Check| Question|
 | ------------ | ------------ |
 | Identity | Does the structure feel stylized, compact, and visually distinct? |
