@@ -40,7 +40,7 @@ Structures should feel handcrafted, game-like, and designed around their purpose
 <br>Filler structures may be simpler, but they should still frame paths, create transitions, or support the identity of their area rather than only occupy empty space.
 
 <a id="exterior"></a>
-**Exterior**
+## Exterior
 
 **Shape & Proportions**
 <br>Use varied heights, setbacks, rooflines, and silhouettes so structures do not feel like decorated boxes. Keep the overall shape readable and avoid unnecessary complexity.
@@ -55,7 +55,7 @@ Structures should feel handcrafted, game-like, and designed around their purpose
 <br>Entrances should be easy to find and face the routes players naturally approach from. Exterior details should support the building's purpose without covering every surface.
 
 <a id="interior"></a>
-**Interior**
+## Interior
 
 **Layout**
 <br>Keep the route from the entrance to the main NPC or interaction clear. Interiors should provide comfortable player movement without leaving large areas unused.
