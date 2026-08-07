@@ -17,7 +17,7 @@
 | 9 | [Eldergrove](areas/eldergrove.md) | Located North-West of the build. |
 
 
-<br>**Building Guidelines**
+<br>**Guidelines**
 <br>These guidelines serve as a shared reference for the overall visual direction of the Skyblock Spawn.
 | # | Guideline | Purpose |
 |---:|-----------|---------|
