@@ -33,26 +33,12 @@
 
 <a id="area-integration"></a>
 <br>**🧷 Area Integration**
-<br>| `Yes` | `No` |
+<br>**Area Integration**
+Structures should feel like a natural part of the surrounding area rather than separate builds placed on top of it. The terrain, paths, elevation changes, vegetation, water, and outdoor spaces should be designed together with the structures, allowing foundations and entrances to flow naturally into their surroundings. Avoid placing structures on isolated platforms scattered across a mostly flat landscape and simply adding foliage or decorations afterward. The entire area should feel like one connected composition, as shown in our [preferred examples](link), rather than the disconnected approach shown in the [examples to avoid](link).
 
-
-
-
-
-
-
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-<a id="area-integration"></a>
-**Area Integration**
-
-Structures should reflect the identity of their area while remaining part of the same overall Spawn. Materials and shapes may vary by area, but the general quality and level of detail should remain consistent.
-
-Entrances should connect naturally to paths. Terrain, vegetation, fences, props, and smaller exterior details can help blend each structure into its surroundings.
 
 <a id="final-review"></a>
-**Final Review**
+<br>**🧷 Final Review**
 
 | Check | Question |
 |-------|----------|
