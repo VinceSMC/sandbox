@@ -1,9 +1,6 @@
 # Structures
 
-**Description**
-<br>Defines the shared visual direction for structures throughout the Skyblock Spawn. Each building should be recognizable, suited to its purpose, and connected naturally to the area around it.
-
-<br>**Contents**
+**Contents**
 | Section | Covers |
 |---------|--------|
 | [Visual References](#visual-references) | Examples that show the intended and unintended visual direction. |
