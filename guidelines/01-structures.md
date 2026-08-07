@@ -21,7 +21,6 @@
 
 Structures should feel handcrafted, game-like, and designed around their purpose. Each building should have its own identity without looking disconnected from the rest of the Spawn.
 
-> [!TL;DR]
 > TL;DR: Strong shapes first, meaningful details second, and surface texture last.
 
 
