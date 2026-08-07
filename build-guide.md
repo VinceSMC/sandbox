@@ -2,6 +2,8 @@
 
 <img src="https://github.com/VinceSMC/sandbox/blob/228e36d36e9d375630dab4d31d67df72ca272055/images/layout.png" alt="Logo" width="auto" height="325">
 
+<br>**Layout**
+<br>The Skyblock Spawn is divided into separate areas, each with its own theme, purpose, and position within the build. The table below shows how these areas are arranged across the overall layout.
 | # | Area | Purpose |
 |---:|------|---------|
 | 1 | [Village](areas/village.md) | Located at the center of the build. |
