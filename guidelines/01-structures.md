@@ -29,7 +29,7 @@
 
 <a id="exterior"></a>
 <br>**🧷 Exterior & Interior**
-<br>Exteriors should clearly communicate each structure’s purpose through its silhouette, palette, entrance, and a few recognizable themed details. Structures should be integrated into their surroundings using paths, steps, foliage, and small props rather than placed on flat, empty plots. Interiors should remain compact, open, and gameplay-focused: the main NPC or interactive feature should be easy to access within the structure. Interior materials and decorations should continue the exterior theme and reinforce the structure’s purpose.
+<br>Exteriors should clearly communicate each structure’s purpose through its silhouette, palette, entrance, and a few recognizable themed details. Structures should be integrated into their surroundings using paths, steps, foliage, terrain and small props rather than placed on flat, empty plots. Interiors should remain compact, open, and gameplay-focused: the main NPC or interactive feature should be easy to access within the structure. Interior materials and decorations should continue the exterior theme and reinforce the structure’s purpose.
 
 
 
