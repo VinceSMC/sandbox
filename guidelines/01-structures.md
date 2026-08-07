@@ -4,8 +4,7 @@
 |---------|--------|
 | [Visual References](#visual-references) | Examples that show the intended and unintended visual direction. |
 | [Overall Direction](#overall-direction) | The identity, purpose, and scale of each structure. |
-| [Exterior](#exterior) | Shape, materials, depth, shading, and entrances. |
-| [Interior](#interior) | Layout, functionality, atmosphere, and decoration. |
+| [Exterior & Interior](#exterior-and-interior) | Shape, materials, depth, shading, and entrances. |
 | [Area Integration](#area-integration) | How structures connect to their area and surroundings. |
 | [Final Review](#final-review) | A short check before a structure is considered complete. |
 
@@ -26,7 +25,7 @@
 
 <br>Scale: Structures should generally remain on the smaller side, with compact footprints and proportions that feel comfortable at player scale. They should still have enough height and shape variation to stand out, but should avoid becoming oversized, monumental, or unnecessarily spacious.
 
-<a id="exterior"></a>
+<a id="exterior-and-interior"></a>
 <br>**🧷 Exterior & Interior**
 <br>Exteriors should clearly communicate each structure’s purpose through its silhouette, palette, entrance, and a few recognizable themed details. Structures should be integrated into their surroundings using paths, steps, foliage, terrain and small props rather than placed on flat, empty plots. Interiors should remain compact, open, and gameplay-focused: the main NPC or interactive feature should be easy to access within the structure. Interior materials and decorations should continue the exterior theme and reinforce the structure’s purpose.
 
