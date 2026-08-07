@@ -25,7 +25,7 @@
 > TL;DR: Strong shapes first, meaningful details second, and surface texture last.
 
 <br>**Scale**
-<br>Use a scale that supports the structure's function and player movement. Avoid making buildings larger than their purpose requires, as this can create empty interiors and reduce their visual impact.
+<br>Structures should generally remain on the smaller side, with compact footprints and proportions that feel comfortable at player scale. They should still have enough height and shape variation to stand out, but should avoid becoming oversized, monumental, or unnecessarily spacious.
 
 
 
@@ -41,15 +41,7 @@
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>**Purpose & Identity**
-<br>The purpose of a structure should be understandable through its shape, entrance, signs, props, and surrounding details. Important locations should remain recognizable without relying only on labels.
-
-**Scale**
-<br>Use a scale that supports the structure's function and player movement. Avoid making buildings larger than their purpose requires, as this can create empty interiors and reduce their visual impact.
-
-**Filler Structures**
-<br>Filler structures may be simpler, but they should still frame paths, create transitions, or support the identity of their area rather than only occupy empty space.
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <a id="exterior"></a>
 ### Exterior
 
