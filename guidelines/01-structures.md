@@ -32,7 +32,7 @@
 
 <a id="area-integration"></a>
 <br>**🧷 Area Integration**
-<br>Structures should feel like a natural part of the surrounding area rather than separate builds placed on top of it. The terrain, paths, elevation changes, vegetation, water, and outdoor spaces should be designed together with the structures, allowing foundations and entrances to flow naturally into their surroundings. Avoid placing structures on isolated platforms scattered across a mostly flat landscape and simply adding foliage or decorations afterward. The entire area should feel like one connected composition, as shown in our [preferred examples](link), rather than the disconnected approach shown in the [examples to avoid](link).
+<br>Structures should feel like a natural part of the surrounding area rather than separate builds placed on top of it. The terrain, paths, elevation changes, vegetation, water, and outdoor spaces should be designed together with the structures, allowing foundations and entrances to flow naturally into their surroundings. Avoid placing structures on isolated platforms scattered across a mostly flat landscape and simply adding foliage or decorations afterward. The entire area should feel like one connected composition, as shown in our [preferred examples](link), rather than the disconnected approach shown in the [examples to avoid](https://imgur.com/a/M4yo6pf).
 
 
 <a id="final-review"></a>
