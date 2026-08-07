@@ -25,7 +25,7 @@
 > TL;DR: Strong shapes first, meaningful details second, and surface texture last.
 
 **Scale**
-Structures should generally remain on the smaller side, with compact footprints and proportions that feel comfortable at player scale. They should still have enough height and shape variation to stand out, but should avoid becoming oversized, monumental, or unnecessarily spacious.
+<br>Structures should generally remain on the smaller side, with compact footprints and proportions that feel comfortable at player scale. They should still have enough height and shape variation to stand out, but should avoid becoming oversized, monumental, or unnecessarily spacious.
 
 <a id="exterior"></a>
 <br>**🧷 Exterior**
