@@ -14,6 +14,7 @@
 | 8 | [Combat Settlement](areas/combat-settlement.md) | Located West of the build. |
 | 9 | [Eldergrove](areas/eldergrove.md) | Located North-West of the build. |
 
+
 **Building Guidelines**
 <br>These guidelines serve as a shared reference for the overall visual direction of the Skyblock Spawn.
 | # | Guideline | Purpose |
