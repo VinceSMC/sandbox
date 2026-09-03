@@ -5,7 +5,7 @@
 
 
 
-<img src="https://github.com/VinceSMC/sandbox/blob/49b14a296490ede0c742ac288f33334de87cdb46/images/the-barricades_2.png" alt="Example" width="auto" height="325">
+<img src="https://github.com/VinceSMC/sandbox/blob/6ef492284c0bd1e76d35a372a444143d7c5717c0/images/the-barricades_2.png" alt="Example" width="auto" height="325">
 
 **Description**
 <br>The Barricades is dedicated to mob-related content.
