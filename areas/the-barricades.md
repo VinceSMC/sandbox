@@ -1,10 +1,6 @@
 # The Barricades
 
-<img src="https://github.com/VinceSMC/sandbox/blob/0a4955d694c7e5dac62a37e1661abca832e47ff6/images/the-barricades_1.png" alt="Example" width="auto" height="325">
-
-
-
-
+<img src="https://github.com/VinceSMC/sandbox/blob/10e3a3398007a3c645fe3bfaddcdf6bff54abea5/images/the-barricades_1.png" alt="Example" width="auto" height="325">
 <img src="https://github.com/VinceSMC/sandbox/blob/6ef492284c0bd1e76d35a372a444143d7c5717c0/images/the-barricades_2.png" alt="Example" width="auto" height="325">
 
 **Description**
