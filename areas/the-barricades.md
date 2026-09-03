@@ -1,7 +1,7 @@
 # The Barricades
 
-<img src="https://github.com/VinceSMC/sandbox/blob/49b14a296490ede0c742ac288f33334de87cdb46/images/the-barricades_1.png" alt="Logo" width="auto" height="325">
-<img src="https://github.com/VinceSMC/sandbox/blob/49b14a296490ede0c742ac288f33334de87cdb46/images/the-barricades_2.png" alt="Logo" width="auto" height="325">
+<img src="https://github.com/VinceSMC/sandbox/blob/49b14a296490ede0c742ac288f33334de87cdb46/images/the-barricades_1.png" alt="Example" width="auto" height="325">
+<img src="https://github.com/VinceSMC/sandbox/blob/49b14a296490ede0c742ac288f33334de87cdb46/images/the-barricades_2.png" alt="Example" width="auto" height="325">
 
 **Description**
 <br>The Barricades is dedicated to mob-related content.
