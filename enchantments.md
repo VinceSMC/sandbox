@@ -20,40 +20,18 @@ events:
 ```
 
 ### enabled
-
 ```yaml
 enabled: BOOLEAN
 ```
 If set to true, ...
 
-### `display`
-
+### display
 ```yaml
-display:
-  type: DISPLAY_TYPE_ID
-  title: "TEXT"
-  description: "TEXT"
+display: EXPRESSION
 ```
+Sets the display properties of the enchantment.
+<br>Check the [Display](https://github.com/LINK_HERE) section for more information.
 
-or:
-
-```yaml
-display:
-  type: DISPLAY_TYPE_ID
-  title: "TEXT"
-  description:
-   - "TEXT"
-   - "TEXT"
-```
-
-> - *Required:* No
-> - *Default value:* the humanized enchantment ID for `title`; no `description` or `type`
-
-Defines the enchantment title and description used by enchantment books, installed-enchantment lore, and supported menu presentations.
-
-The optional `type` selects a display type configured under `messages.yml > text-and-labels.display.types`. Its ID is configurable and must resolve to an existing entry. When `type` is omitted, the title and description remain available without display-type formatting.
-
-`description` accepts either one string or a list of strings. Placeholder and formula rendering occurs in the current item, level, and viewer context.
 
 ### `item`
 
