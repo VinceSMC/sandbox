@@ -1,6 +1,6 @@
 ## Enchantments
 Enchantment files define enchantments that can be applied to certain items.
-A definition may wrap a Minecraft enchantment or provide custom behavior through events and effects.
+<br>A definition may wrap a Minecraft enchantment or provide custom behavior through events and effects.
 
 ### Syntax
 ```yaml
