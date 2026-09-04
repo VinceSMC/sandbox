@@ -19,33 +19,12 @@ events:
  - type: EVENT_TYPE
 ```
 
-Every root option is optional unless its section states otherwise. A custom enchantment must nevertheless define at least one compatible `target` because it has no Minecraft registry entry from which compatibility can be derived.
-
-## Options
-
-### Definition identity
-
-```text
-enchantments/<optional-folders>/<EnchantmentID>.yml
-```
-
-> - *Required:* Yes
-> - *Structure:* lowercase-kebab file name ending in `.yml`
-
-Defines the enchantment ID through the file name. For example, `enchantments/swords/life-steal.yml` defines `life-steal`.
-
-Folder names do not namespace an ID. `enchantments/swords/chance.yml` and `enchantments/bows/chance.yml` therefore conflict even though they are in different folders.
-
-### `enabled`
+### enabled
 
 ```yaml
 enabled: BOOLEAN
 ```
-
-> - *Required:* No
-> - *Default value:* `true`
-
-Sets whether the enchantment enters the active application and execution catalogs. A disabled definition is not generated automatically or available for use.
+If set to true, ...
 
 ### `display`
 
