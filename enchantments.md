@@ -24,6 +24,7 @@ events:
 enabled: BOOLEAN
 ```
 > *Default value:* `true`
+
 If set to true, ...
 
 ### display
