@@ -5,42 +5,16 @@ A definition may wrap a Minecraft enchantment or provide custom behavior through
 ### Syntax
 ```yaml
 enabled: BOOLEAN
-
-display:
-  type: DISPLAY_TYPE_ID
-  title: "TEXT"
-  description: TEXT_OR_LIST
-
+display: EXPRESSION
 item: ITEM
-
-category: CATEGORY_ID
-
-targets:
- - ENCHANTMENT_TARGET
-
-registry:
-  reference: "MINECRAFT_ENCHANTMENT_ID"
-  min-level: INTEGER
-  max-level: INTEGER
-  conflicts:
-   - ENCHANTMENT_ID
-
-application: APPLICATION_COSTS
-
+category: CATEGORY_ID ## Do we use this?
+targets: LIST
+registry: EXPRESSION
+application: EXPRESSION
 conditions: CONDITIONS
-
-levels:
-  "LEVEL":
-    item: ITEM
-    conditions: CONDITIONS
-    gui-menu:
-      exclude: BOOLEAN
-
-formulas:
-  FORMULA_ID: FORMULA
-
+levels: LEVELS
+formulas: EXPRESSION
 progression: PROGRESSION
-
 events: EVENTS
 ```
 
