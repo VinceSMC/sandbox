@@ -59,8 +59,13 @@ Sets the display category of the enchantment.
 ```yaml
 targets: LIST
 ```
+> *Example:*
+> ```yaml
+> targets:
+>  - pickaxe
+>  - axe
+> ```
 Sets the item types that can receive the enchantment.
-<br>Check the [Targets](shared/targets.md) section for more information.
 
 ### registry
 
