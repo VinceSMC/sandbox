@@ -65,6 +65,9 @@ targets: LIST
 >  - pickaxe
 >  - axe
 > ```
+
+> *Supported values:* `sword`, `bow`, `crossbow`, `helmet`, `chestplate`, `leggings`
+
 Sets the item types that can receive the enchantment.
 
 ### registry
