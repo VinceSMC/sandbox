@@ -47,7 +47,7 @@ Sets the item properties of the enchantment book.
 ```yaml
 category: CATEGORY_ID
 ```
-Sets the display category of the enchantment from `options.categories.entries` in the main `config.yml`.
+Sets the display category of the enchantment from `options.categories.entries` in the main config.yml.
 <br>When omitted, the category is selected from the enchantment targets.
 
 ### targets
