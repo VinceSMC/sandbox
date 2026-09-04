@@ -1,13 +1,8 @@
-# Enchantment files
+## Enchantments
+Enchantment files define enchantments that can be applied to certain items.
+A definition may wrap a Minecraft enchantment or provide custom behavior through events and effects.
 
-Enchantment files define enchantments that can be applied to compatible items. A definition may wrap a Minecraft enchantment or provide custom behavior through events and effects.
-
-SMC-Enchantments recursively loads lowercase `.yml` files from `enchantments/`. The file name, without `.yml`, is the enchantment ID. Subfolders organize files only and do not become part of the ID, so every file name must be unique across the complete `enchantments/` folder.
-
-This page owns the composition of an enchantment file. Detailed event, effect, filter, progression, condition, configured-item, and application-cost catalogs will remain separate shared references as that documentation is added.
-
-## Syntax
-
+### Syntax
 ```yaml
 enabled: BOOLEAN
 
