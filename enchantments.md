@@ -15,7 +15,8 @@ conditions: CONDITIONS
 levels: LEVELS
 formulas: EXPRESSION
 progression: PROGRESSION
-events: EVENTS
+events:
+ - type: EVENT_TYPE
 ```
 
 Every root option is optional unless its section states otherwise. A custom enchantment must nevertheless define at least one compatible `target` because it has no Minecraft registry entry from which compatibility can be derived.
